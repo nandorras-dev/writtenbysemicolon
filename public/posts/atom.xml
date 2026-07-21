@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
+    <title>Posts - Ed.</title>
+    <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
+    <link href="/posts/" rel="alternate" type="text/html" title="html" />
+    <link href="/posts/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
+    <link href="/posts/atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/posts/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <author>
+        <name>Serghei Iakovlev</name>
+        <email>contact@serghei.pl</email>
+    </author>
+    <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
+    <updated>2026-01-15T11:00:00Z</updated>
+    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/thirtysix/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Thirty Six]]></title>
+        
+        
+        
+        <published>2026-01-15T11:00:00Z</published>
+        <updated>2026-01-15T11:00:00Z</updated>
+        <id>urn:uuid:1e2a6865-8698-5481-99d7-39fa2125ccba</id>
+        
+        <summary type="html"><![CDATA[<p><strong>Thirty-Six</strong></p>
+<p>Today I stand where circles meet,
+Where numbered years and heartbeats greet;
+Not merely older—more aware,
+Of hidden patterns everywhere.</p>
+<p>For life first learned to write in <strong>three</strong>,
+Its secret script of destiny;
+Each tiny codon, softly spun,
+A whispered verse: <em>Become. Be one.</em></p>
+<p>And from the humble number <strong>six</strong>
+Rose carbon&rsquo;s quiet, ancient bricks;
+Six steadfast sparks in every flame,
+The dust of stars from which we came.</p>]]></summary>
+    </entry>
+</feed>

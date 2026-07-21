@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
-    <title>Ed.</title>
+    <title>Poems - Ed.</title>
     <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
-    <link href="/" rel="alternate" type="text/html" title="html" />
-    <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
-    <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
-    <link href="/atom.xml" rel="self" type="text/xml" title="atom" />
-    <link href="/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
-    <link href="/index.json" rel="alternate" type="application/json" title="json" />
-    <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
+    <link href="/poems/" rel="alternate" type="text/html" title="html" />
+    <link href="/poems/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
+    <link href="/poems/atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/poems/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
     <icon>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
     <logo>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
     <author>
@@ -18,57 +15,6 @@
     <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
     <updated>2026-01-15T11:00:00Z</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
-    <entry>
-        
-        <category term="poems" />
-        
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Thirty Six]]></title>
-        
-        
-        
-        <published>2026-01-15T11:00:00Z</published>
-        <updated>2026-01-15T11:00:00Z</updated>
-        <id>urn:uuid:eddd30e6-e547-5df4-2911-a7ff49f77a78</id>
-        
-        <summary type="html"><![CDATA[<p><strong>Thirty-Six</strong></p>
-<p>Today I stand where circles meet,
-Where numbered years and heartbeats greet;
-Not merely older—more aware,
-Of hidden patterns everywhere.</p>
-<p>For life first learned to write in <strong>three</strong>,
-Its secret script of destiny;
-Each tiny codon, softly spun,
-A whispered verse: <em>Become. Be one.</em></p>
-<p>And from the humble number <strong>six</strong>
-Rose carbon&rsquo;s quiet, ancient bricks;
-Six steadfast sparks in every flame,
-The dust of stars from which we came.</p>]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="dramas" />
-        
-        <link rel="alternate" type="type/html" href="//localhost:1313/dramas/raisin/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[A Raisin in the Sun]]></title>
-        
-        
-        
-        <published>2022-02-03T14:56:58+02:00</published>
-        <updated>2022-02-03T14:56:58+02:00</updated>
-        <id>urn:uuid:6624cea0-bffb-5121-b9db-ce0553bf6dae</id>
-        
-                <author>
-                    <name>Lorraine Hansberry</name>
-                </author>
-        
-        <summary type="html"><![CDATA[<p>(excerpt)</p>
-<p>MAMA: Son—how come you talk so much &lsquo;bout money?</p>
-<p>WALTER (<em>with immense passion</em>): Because it is life, Mama!</p>
-<p>MAMA: Oh—So now it’s life. Money is life. Once upon a time freedom used to be life—now it’s money. I guess the world really do change &hellip;</p>
-<p>WALTER: No—it was always money, Mama. We just didn’t know about it.</p>
-<p>MAMA: No &hellip; something has changed. (<em>She looks at him</em>) You something new, boy. In my time we was worried about not being lynched and getting to the North if we could and how to stay alive and still have a pinch of dignity too &hellip; Now here come you and Beneatha—talking &lsquo;bout things we never even thought about hardly, me and your daddy. You ain’t satisfied or proud of nothing we done. I mean that you had a home; that we kept you out of trouble till you was grown; that you don’t have to ride to work on the back of nobody’s streetcar—You my children—but how different we done become.</p>]]></summary>
-    </entry>
     <entry>
         
         <category term="poems" />
@@ -323,26 +269,5 @@ Fallen cold and dead.</li>
 <ol>
 <li id="fn:1">
 <p>The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her &ldquo;Letter to John&rdquo;:</p>]]></summary>
-    </entry>
-    <entry>
-        
-        <category term="narratives" />
-        
-        <link rel="alternate" type="type/html" href="//localhost:1313/narratives/narrative/?utm_source=atom_feed" />
-        <title type="html"><![CDATA[Narrative of the Life of Frederick Douglass]]></title>
-        
-        
-        
-        <published>2016-01-18T00:00:00Z</published>
-        <updated>2016-01-18T00:00:00Z</updated>
-        <id>urn:uuid:5453d005-b15b-5793-7979-eee002f5fc80</id>
-        
-                <author>
-                    <name>Frederick Douglass</name>
-                </author>
-        
-        <summary type="html"><![CDATA[<hr>
-<h2 id="editors-note">Editor&rsquo;s note</h2>
-<p>This version of <em>Narrative of the Life of Frederick Douglass</em> was adapted from <em>The Project Gutenberg EBook of The Narrative of the Life of Frederick Douglass, by Frederick Douglass</em>. The <a href="http://www.gutenberg.org/">Guttenberg file</a> does not tell us which witness was used in making their digital edition. The edition below is only a slightly modified version of the Guttenberg text, and therefore should not be taken too seriously as an edition. I use the text mostly to show a few affordances of using Ed for long form narrative. This page, for example, showcases a different sidebar than the rest of our sample site, with a table of content of the novel generated out of metadata in the source file. In addition, reading morsels of the novel on your different devices can give you a sense of the experience of reading prose using Ed, and shows you an example of the optional sidebar with a table of contents. A few other features of this page are described in more detail in the <a href="/documentation/">Documentation</a>.</p>]]></summary>
     </entry>
 </feed>
