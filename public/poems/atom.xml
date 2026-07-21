@@ -19,6 +19,33 @@
         
         <category term="poems" />
         
+        <link rel="alternate" type="type/html" href="//localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Thirty Six]]></title>
+        
+        
+        
+        <published>2026-01-15T11:00:00Z</published>
+        <updated>2026-01-15T11:00:00Z</updated>
+        <id>urn:uuid:eddd30e6-e547-5df4-2911-a7ff49f77a78</id>
+        
+        <summary type="html"><![CDATA[<p><strong>Thirty-Six</strong></p>
+<p>Today I stand where circles meet,
+Where numbered years and heartbeats greet;
+Not merely older—more aware,
+Of hidden patterns everywhere.</p>
+<p>For life first learned to write in <strong>three</strong>,
+Its secret script of destiny;
+Each tiny codon, softly spun,
+A whispered verse: <em>Become. Be one.</em></p>
+<p>And from the humble number <strong>six</strong>
+Rose carbon&rsquo;s quiet, ancient bricks;
+Six steadfast sparks in every flame,
+The dust of stars from which we came.</p>]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="poems" />
+        
         <link rel="alternate" type="type/html" href="//localhost:1313/poems/mypoem/?utm_source=atom_feed" />
         <title type="html"><![CDATA[My poem]]></title>
         

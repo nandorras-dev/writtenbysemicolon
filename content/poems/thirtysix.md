@@ -3,8 +3,6 @@ date = '2026-01-15T11:00:00Z'
 draft = false
 title = 'Thirty Six'
 +++
-**Thirty-Six**
-
 Today I stand where circles meet,
 Where numbered years and heartbeats greet;
 Not merely older—more aware,
