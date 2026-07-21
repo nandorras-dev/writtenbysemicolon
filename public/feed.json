@@ -1,0 +1,20 @@
+
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Ed.",
+  "home_page_url": "//localhost:1313/?utm_source=json_feed",
+  "feed_url": "//localhost:1313/index.json",
+  "description": "Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.",
+  "icon": "//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png",
+  "favicon": "//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png",
+  "authors": [
+    {
+      "name": "Serghei Iakovlev",
+      "url": "https://twitter.com/egreps"
+    }
+  ],
+  "language" : "en",
+  "items": [
+  ]
+}
