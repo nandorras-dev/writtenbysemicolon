@@ -1,8 +1,8 @@
 # You may need to change this line for your real project.
-baseURL = 'Ed.'
+baseURL = 'https://writtenbysemicolon.com/'
 
 # A "copyright"-line to be added to RSS/Atom files and the footer.
-copyright = '© 2019-2024 Serghei Iakovlev'
+copyright = '© 2019-2026 Semicolon'
 
 # Keep title short to prevent overflow.
 # There’s no official guidance on this, but 40 characters for
@@ -10,27 +10,27 @@ copyright = '© 2019-2024 Serghei Iakovlev'
 #
 # NB: Final title of shareable pages will be this plus the
 #     title of the page. E.g. "Posts | Ed."
-title = "Ed."
+title = "Written by Semicolon;"
 
 enableRobotsTXT = true
 
 [params]
   # Site description. Used in meta description
-  description = 'Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+  description = "Written by Dutch poet Semicolon, this blog transforms life's hardest moments into poetic lessons on endurance, growth, and choosing to keep writing your story."
 
   # SEO keywords. Used in 'meta name="keywords"' tag.
   # May be overridden by .Keywords or .Tags in front matter.
-  keywords = ['hugo', 'ed', 'hugo theme', 'minimal', 'responsive', 'clean']
+  keywords = ['hugo', 'semicolon', 'hugo theme', 'minimal', 'responsive', 'clean']
 
   # Used in site header
-  tagline = 'a Hugo theme for minimal editions'
+  tagline = 'pain transformed into poetry, and a choice to continue'
 
   # Custom footer text on left sidebar. Use HTMl if needed.
   # "&copy;" and "{year}" will be replaced by © and the current year.
   footer = 'Built with <a href="https://github.com/sergeyklay/gohugo-theme-ed" target="_blank" rel="noopener noreferrer">Ed</a>. Distributed under an MIT license.'
 
   # Colour scheme. Options: red, orange, magenta, cyan, blue, brown
-  colorScheme = ''
+  colorScheme = 'brown'
 
   # Sections to be displayed in:
   # - main page
@@ -83,11 +83,11 @@ enableRobotsTXT = true
 
   showAuthor = true
   [params.author]
-    name = 'Serghei Iakovlev'
-    email = 'contact@serghei.pl'
-    github = 'sergeyklay'
-    twitter = 'egreps'
-    location = 'Wrocław, Poland'
+    name = 'Semicolon'
+    email = 'contact@writtenbysemicolon.com'
+    github = 'narnacle-dev'
+    twitter = 'semicolon'
+    location = 'Somewhere, Over the Rainbow'
 
   [params.social]
     # Array of Facebook Page Admin IDs for Domain Insights

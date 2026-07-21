@@ -1,59 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
-    <title>Poems - Ed.</title>
-    <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Poems - Written by Semicolon;</title>
+    <subtitle type="html"><![CDATA[Written by Dutch poet Semicolon, this blog transforms life's hardest moments into poetic lessons on endurance, growth, and choosing to keep writing your story.]]></subtitle>
     <link href="/poems/" rel="alternate" type="text/html" title="html" />
     <link href="/poems/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
     <link href="/poems/atom.xml" rel="self" type="text/xml" title="atom" />
     <link href="/poems/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
-    <icon>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
-    <logo>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <icon>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
     <author>
-        <name>Serghei Iakovlev</name>
-        <email>contact@serghei.pl</email>
+        <name>Semicolon</name>
+        <email>contact@writtenbysemicolon.com</email>
     </author>
     <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
     <updated>2026-01-15T11:00:00Z</updated>
-    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
     <entry>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Thirty Six]]></title>
         
         
         
         <published>2026-01-15T11:00:00Z</published>
         <updated>2026-01-15T11:00:00Z</updated>
-        <id>urn:uuid:eddd30e6-e547-5df4-2911-a7ff49f77a78</id>
+        <id>urn:uuid:4bd7bdcc-8336-5b03-b93a-0cef8c7a84ce</id>
         
-        <summary type="html"><![CDATA[<p><strong>Thirty-Six</strong></p>
-<p>Today I stand where circles meet,
-Where numbered years and heartbeats greet;
-Not merely older—more aware,
+        <summary type="html"><![CDATA[<p>Today I stand where circles meet,<br>
+Where numbered years and heartbeats greet;<br>
+Not merely older—more aware,<br>
 Of hidden patterns everywhere.</p>
-<p>For life first learned to write in <strong>three</strong>,
-Its secret script of destiny;
-Each tiny codon, softly spun,
+<p>For life first learned to write in <strong>three</strong>,<br>
+Its secret script of destiny;<br>
+Each tiny codon, softly spun,<br>
 A whispered verse: <em>Become. Be one.</em></p>
-<p>And from the humble number <strong>six</strong>
-Rose carbon&rsquo;s quiet, ancient bricks;
-Six steadfast sparks in every flame,
-The dust of stars from which we came.</p>]]></summary>
+<p>And from the humble number <strong>six</strong><br>
+Rose carbon&rsquo;s quiet, ancient bricks;<br>
+Six steadfast sparks in every flame,<br>
+The dust of stars from which we came.</p>
+<p>In honeycomb and crystal snow,<br>
+The hexagons of nature grow;<br>
+They teach that beauty often starts<br>
+Where order patiently shapes hearts.</p>]]></summary>
     </entry>
     <entry>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/mypoem/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/mypoem/?utm_source=atom_feed" />
         <title type="html"><![CDATA[My poem]]></title>
         
         
         
         <published>2022-02-02T14:56:58+02:00</published>
         <updated>2022-02-02T14:56:58+02:00</updated>
-        <id>urn:uuid:49f0bb14-e84b-5300-f914-22193b955335</id>
+        <id>urn:uuid:b1ed01bf-8099-573d-5958-c4a5c6e36699</id>
         
                 <author>
                     <name>Alex Gil</name>
@@ -69,14 +72,14 @@ The dust of stars from which we came.</p>]]></summary>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/dreams/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/dreams/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Dreams]]></title>
         
         
         
         <published>2022-02-01T14:56:58+02:00</published>
         <updated>2022-05-01T14:56:58+02:00</updated>
-        <id>urn:uuid:01ae734c-04f8-50a7-19c6-e8d908f786ce</id>
+        <id>urn:uuid:ddf925e6-415f-5781-09eb-78335eab3d9b</id>
         
                 <author>
                     <name>Langston Hughes</name>
@@ -97,14 +100,14 @@ The dust of stars from which we came.</p>]]></summary>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/delayed/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/delayed/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Delayed till she had ceased to know]]></title>
         
         
         
         <published>2022-01-30T14:56:58+02:00</published>
         <updated>2022-01-30T14:56:58+02:00</updated>
-        <id>urn:uuid:1dd22907-9b83-5ac7-4941-3022b302cec1</id>
+        <id>urn:uuid:dc4b27d0-c755-52c5-599e-a78f78365447</id>
         
                 <author>
                     <name>Emily Dickinson</name>
@@ -145,14 +148,14 @@ Doubtful if it be crowned!</li>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/a-julia/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/a-julia/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A Julia de Burgos]]></title>
         
         
         
         <published>2022-01-01T14:57:10+02:00</published>
         <updated>2022-01-01T14:57:10+02:00</updated>
-        <id>urn:uuid:3fb91af6-735f-5672-c9ab-d90ff81e8221</id>
+        <id>urn:uuid:fdb8a85f-ee68-5bfc-a95c-224361b3f4c4</id>
         
                 <author>
                     <name>Julia de Burgos</name>
@@ -234,14 +237,14 @@ Doubtful if it be crowned!</li>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/o-captain/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/o-captain/?utm_source=atom_feed" />
         <title type="html"><![CDATA[O Captain! My Captain!]]></title>
         
         
         
         <published>2021-02-02T23:56:58+02:00</published>
         <updated>2021-02-02T23:56:58+02:00</updated>
-        <id>urn:uuid:f3cf87b9-f384-55cb-c9f4-2e9903e2bd60</id>
+        <id>urn:uuid:534e965d-457d-5392-29b7-8b370e872e6b</id>
         
                 <author>
                     <name>Walt Whitman</name>

@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
-  "id": "c610c95a-59eb-57cc-69e9-b4b341a49050",
-  "name": "Ed.",
-  "short_name": "a Hugo theme for minimal editions",
-  "description": "Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.",
+  "id": "9a1c77bb-43ff-58da-c909-160252f79a83",
+  "name": "Written by Semicolon;",
+  "short_name": "pain transformed into poetry, and a choice to continue",
+  "description": "Written by Dutch poet Semicolon, this blog transforms life's hardest moments into poetic lessons on endurance, growth, and choosing to keep writing your story.",
   "lang": "en",
   "dir": "ltr",
   "start_url": "/index.html?source=pwa",

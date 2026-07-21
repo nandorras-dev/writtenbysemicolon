@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
-    <title>Narratives - Ed.</title>
-    <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Narratives - Written by Semicolon;</title>
+    <subtitle type="html"><![CDATA[Written by Dutch poet Semicolon, this blog transforms life's hardest moments into poetic lessons on endurance, growth, and choosing to keep writing your story.]]></subtitle>
     <link href="/narratives/" rel="alternate" type="text/html" title="html" />
     <link href="/narratives/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
     <link href="/narratives/atom.xml" rel="self" type="text/xml" title="atom" />
     <link href="/narratives/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
-    <icon>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
-    <logo>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <icon>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
     <author>
-        <name>Serghei Iakovlev</name>
-        <email>contact@serghei.pl</email>
+        <name>Semicolon</name>
+        <email>contact@writtenbysemicolon.com</email>
     </author>
     <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
     <updated>2026-01-15T11:00:00Z</updated>
-    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
     <entry>
         
         <category term="narratives" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/narratives/narrative/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/narratives/narrative/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Narrative of the Life of Frederick Douglass]]></title>
         
         
         
         <published>2016-01-18T00:00:00Z</published>
         <updated>2016-01-18T00:00:00Z</updated>
-        <id>urn:uuid:5453d005-b15b-5793-7979-eee002f5fc80</id>
+        <id>urn:uuid:357c0eec-b603-53fa-d997-6bd5d0f67a7b</id>
         
                 <author>
                     <name>Frederick Douglass</name>

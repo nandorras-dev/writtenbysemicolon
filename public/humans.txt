@@ -1,11 +1,11 @@
 
     /* TEAM */
 
-    Author: Serghei Iakovlev
-    Contact: contact@serghei.pl
-    GitHub: @sergeyklay
-    Twitter: @egreps
-    From: Wrocław, Poland
+    Author: Semicolon
+    Contact: contact@writtenbysemicolon.com
+    GitHub: @narnacle-dev
+    Twitter: @semicolon
+    From: Somewhere, Over the Rainbow
 
     /* SITE */
 

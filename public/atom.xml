@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
-    <title>Ed.</title>
-    <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Written by Semicolon;</title>
+    <subtitle type="html"><![CDATA[Written by Dutch poet Semicolon, this blog transforms life's hardest moments into poetic lessons on endurance, growth, and choosing to keep writing your story.]]></subtitle>
     <link href="/" rel="alternate" type="text/html" title="html" />
     <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
     <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
@@ -9,57 +9,130 @@
     <link href="/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
     <link href="/index.json" rel="alternate" type="application/json" title="json" />
     <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
-    <icon>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
-    <logo>//localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <icon>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
     <author>
-        <name>Serghei Iakovlev</name>
-        <email>contact@serghei.pl</email>
+        <name>Semicolon</name>
+        <email>contact@writtenbysemicolon.com</email>
     </author>
     <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
     <updated>2026-01-15T11:00:00Z</updated>
-    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
     <entry>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/thirtysix/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Thirty Six]]></title>
         
         
         
         <published>2026-01-15T11:00:00Z</published>
         <updated>2026-01-15T11:00:00Z</updated>
-        <id>urn:uuid:eddd30e6-e547-5df4-2911-a7ff49f77a78</id>
+        <id>urn:uuid:4bd7bdcc-8336-5b03-b93a-0cef8c7a84ce</id>
         
-        <summary type="html"><![CDATA[<p>Today I stand where circles meet,
-Where numbered years and heartbeats greet;
-Not merely older—more aware,
-Of hidden patterns everywhere.</p>
-<p>For life first learned to write in <strong>three</strong>,
-Its secret script of destiny;
-Each tiny codon, softly spun,
-A whispered verse: <em>Become. Be one.</em></p>
-<p>And from the humble number <strong>six</strong>
-Rose carbon&rsquo;s quiet, ancient bricks;
-Six steadfast sparks in every flame,
-The dust of stars from which we came.</p>
-<p>In honeycomb and crystal snow,
-The hexagons of nature grow;
-They teach that beauty often starts
-Where order patiently shapes hearts.</p>]]></summary>
+                <author>
+                    <name>Semicolon</name>
+                </author>
+        
+        <summary type="html"><![CDATA[<ul class="poetry">
+<li>Today I stand where circles meet,</li>
+<li>Where numbered years and heartbeats greet;</li>
+<li>Not merely older—more aware,</li>
+<li>Of hidden patterns everywhere.</li>
+</ul>
+<ul class="poetry">
+<li>For life first learned to write in <strong>three</strong>,</li>
+<li>Its secret script of destiny;</li>
+<li>Each tiny codon, softly spun,</li>
+<li>A whispered verse: <em>Become. Be one.</em></li>
+</ul>
+<ul class="poetry">
+<li>And from the humble number <strong>six</strong></li>
+<li>Rose carbon&rsquo;s quiet, ancient bricks;</li>
+<li>Six steadfast sparks in every flame,</li>
+<li>The dust of stars from which we came.</li>
+</ul>
+<ul class="poetry">
+<li>In honeycomb and crystal snow,</li>
+<li>The hexagons of nature grow;</li>
+<li>They teach that beauty often starts</li>
+<li>Where order patiently shapes hearts.</li>
+</ul>
+<ul class="poetry">
+<li>Then came the square of six fulfilled—</li>
+<li><strong>Thirty-six</strong>, where dreams are built.</li>
+<li>Not haste, nor youth&rsquo;s impatient fire,</li>
+<li>But roots grown deep and climbing higher.</li>
+</ul>
+<ul class="poetry">
+<li>The sum of steps, from one through eight,</li>
+<li>A mountain shaped by hands of fate;</li>
+<li>Each joy, each scar, each hope once small,</li>
+<li>Has found its place inside them all.</li>
+</ul>
+<ul class="poetry">
+<li>This body&rsquo;s warmth—its quiet grace—</li>
+<li>Still keeps a faithful, living place;</li>
+<li>A gentle fire, serene, alive,</li>
+<li>Enough to love, enough to strive.</li>
+</ul>
+<ul class="poetry">
+<li>And somewhere, ancient voices say,</li>
+<li>There walk <strong>thirty-six</strong> who light the way;</li>
+<li>Unknown to crowns, untouched by fame,</li>
+<li>Yet all the world endures by them.</li>
+</ul>
+<ul class="poetry">
+<li>Perhaps their gift is simply this:</li>
+<li>To turn each ordinary kiss,</li>
+<li>Each patient word, each offered hand,</li>
+<li>Into the strength on which we stand.</li>
+</ul>
+<ul class="poetry">
+<li>So let this birthday not proclaim</li>
+<li>Another number, date, or name.</li>
+<li>Let it remind my soul instead</li>
+<li>How every living thread is bred:</li>
+</ul>
+<ul class="poetry">
+<li>From <strong>three</strong>, the language life first spoke;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
+<li>From <strong>six</strong>, the star-born bond it woke;<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
+<li>From <strong>thirty-six</strong>, the truth made clear—</li>
+<li>Life ripens deeper, year by year.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></li>
+</ul>
+<ul class="poetry">
+<li>And if these years have taught me one</li>
+<li>Enduring lesson, gently won,</li>
+<li>It&rsquo;s not how long the journey&rsquo;s run,</li>
+<li>But how much light we leave in one.</li>
+</ul>
+<ul class="poetry">
+<li>So here&rsquo;s to thirty-six—not end,</li>
+<li>But wiser road and truer friend;</li>
+<li>A heart still learning, still set free,</li>
+<li>Forever becoming what it&rsquo;s meant to be.</li>
+</ul>
+<hr>
+<h1 id="footnotes">Footnotes</h1>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p><strong>DNA is read in triplets.</strong> Every amino acid is encoded by a sequence of <strong>three nucleotides</strong> (a codon). In a very real sense, life&rsquo;s language is written in threes. <strong>Birth, life, death</strong>—the universal arc of existence.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>]]></summary>
     </entry>
     <entry>
         
         <category term="dramas" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/dramas/raisin/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/dramas/raisin/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A Raisin in the Sun]]></title>
         
         
         
         <published>2022-02-03T14:56:58+02:00</published>
         <updated>2022-02-03T14:56:58+02:00</updated>
-        <id>urn:uuid:6624cea0-bffb-5121-b9db-ce0553bf6dae</id>
+        <id>urn:uuid:1ef7472b-99a9-5693-e9ae-c65ebed53eb3</id>
         
                 <author>
                     <name>Lorraine Hansberry</name>
@@ -76,14 +149,14 @@ Where order patiently shapes hearts.</p>]]></summary>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/mypoem/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/mypoem/?utm_source=atom_feed" />
         <title type="html"><![CDATA[My poem]]></title>
         
         
         
         <published>2022-02-02T14:56:58+02:00</published>
         <updated>2022-02-02T14:56:58+02:00</updated>
-        <id>urn:uuid:49f0bb14-e84b-5300-f914-22193b955335</id>
+        <id>urn:uuid:b1ed01bf-8099-573d-5958-c4a5c6e36699</id>
         
                 <author>
                     <name>Alex Gil</name>
@@ -99,14 +172,14 @@ Where order patiently shapes hearts.</p>]]></summary>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/dreams/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/dreams/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Dreams]]></title>
         
         
         
         <published>2022-02-01T14:56:58+02:00</published>
         <updated>2022-05-01T14:56:58+02:00</updated>
-        <id>urn:uuid:01ae734c-04f8-50a7-19c6-e8d908f786ce</id>
+        <id>urn:uuid:ddf925e6-415f-5781-09eb-78335eab3d9b</id>
         
                 <author>
                     <name>Langston Hughes</name>
@@ -127,14 +200,14 @@ Where order patiently shapes hearts.</p>]]></summary>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/delayed/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/delayed/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Delayed till she had ceased to know]]></title>
         
         
         
         <published>2022-01-30T14:56:58+02:00</published>
         <updated>2022-01-30T14:56:58+02:00</updated>
-        <id>urn:uuid:1dd22907-9b83-5ac7-4941-3022b302cec1</id>
+        <id>urn:uuid:dc4b27d0-c755-52c5-599e-a78f78365447</id>
         
                 <author>
                     <name>Emily Dickinson</name>
@@ -175,14 +248,14 @@ Doubtful if it be crowned!</li>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/a-julia/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/a-julia/?utm_source=atom_feed" />
         <title type="html"><![CDATA[A Julia de Burgos]]></title>
         
         
         
         <published>2022-01-01T14:57:10+02:00</published>
         <updated>2022-01-01T14:57:10+02:00</updated>
-        <id>urn:uuid:3fb91af6-735f-5672-c9ab-d90ff81e8221</id>
+        <id>urn:uuid:fdb8a85f-ee68-5bfc-a95c-224361b3f4c4</id>
         
                 <author>
                     <name>Julia de Burgos</name>
@@ -264,14 +337,14 @@ Doubtful if it be crowned!</li>
         
         <category term="poems" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/poems/o-captain/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/poems/o-captain/?utm_source=atom_feed" />
         <title type="html"><![CDATA[O Captain! My Captain!]]></title>
         
         
         
         <published>2021-02-02T23:56:58+02:00</published>
         <updated>2021-02-02T23:56:58+02:00</updated>
-        <id>urn:uuid:f3cf87b9-f384-55cb-c9f4-2e9903e2bd60</id>
+        <id>urn:uuid:534e965d-457d-5392-29b7-8b370e872e6b</id>
         
                 <author>
                     <name>Walt Whitman</name>
@@ -331,14 +404,14 @@ Fallen cold and dead.</li>
         
         <category term="narratives" />
         
-        <link rel="alternate" type="type/html" href="//localhost:1313/narratives/narrative/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="http://localhost:1313/narratives/narrative/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Narrative of the Life of Frederick Douglass]]></title>
         
         
         
         <published>2016-01-18T00:00:00Z</published>
         <updated>2016-01-18T00:00:00Z</updated>
-        <id>urn:uuid:5453d005-b15b-5793-7979-eee002f5fc80</id>
+        <id>urn:uuid:357c0eec-b603-53fa-d997-6bd5d0f67a7b</id>
         
                 <author>
                     <name>Frederick Douglass</name>
